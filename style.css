@@ -21,14 +21,15 @@
     height: 100px;
     position: absolute;
     bottom: 0;
-    left: 5%;
+    left: 40px;
 }
 
 .tubo{
     height: 50px;
     position: absolute;
     bottom: 0;
-    animation: tubo 4s infinite linear;
+    animation: tubo infinite linear;
+    animation-duration: 4000ms;
 }
 
 .score{
